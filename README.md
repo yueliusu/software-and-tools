@@ -4,7 +4,7 @@
 
 按使用场景整理的软件、浏览器扩展、油猴脚本与 AI 工具，持续更新。
 
-**98 个条目 · 7 个分类** · [更新记录](CHANGELOG.md) · [作者博客](https://blog.csdn.net/qq_51646682?type=lately)
+**100 个条目 · 7 个分类** · [更新记录](CHANGELOG.md) · [作者博客](https://blog.csdn.net/qq_51646682?type=lately)
 
 ## 分类导航
 
@@ -15,7 +15,7 @@
 | [扩展商店](03-扩展商店/) | 6 | 3 个官方商店与 3 个第三方网站 |
 | [油猴脚本](04-油猴脚本/) | 16 | 搜索、网盘、影音、图片、链接与网站增强 |
 | [对话式 AI](05-对话式AI/) | 9 | 聊天问答、写作与资料处理 |
-| [AI 编程工具](06-AI编程工具/) | 5 | AI 编辑器、编程扩展与在线开发 |
+| [AI 编程工具](06-AI编程工具/) | 7 | 编辑器、在线开发、配置与服务管理 |
 | [智能体与助手](07-智能体与助手/) | 8 | 通用助手与编程 Agent |
 
 点击分类进入独立文件夹，或在下方按用途速查；点击工具名查看图文介绍。
@@ -128,7 +128,8 @@
 
 | 用途 | 工具 / 入口 |
 | --- | --- |
-| [AI 编程工具](06-AI编程工具/README.md#coding-tools) | [Cursor](06-AI编程工具/README.md#tool-cursor) · [Kiro](06-AI编程工具/README.md#tool-kiro) · [Trae](06-AI编程工具/README.md#tool-trae) · [GitHub Copilot](06-AI编程工具/README.md#tool-github-copilot) · [Replit](06-AI编程工具/README.md#tool-replit) |
+| [编辑器与开发平台](06-AI编程工具/README.md#coding-tools) | [Cursor](06-AI编程工具/README.md#tool-cursor) · [Kiro](06-AI编程工具/README.md#tool-kiro) · [Trae](06-AI编程工具/README.md#tool-trae) · [GitHub Copilot](06-AI编程工具/README.md#tool-github-copilot) · [Replit](06-AI编程工具/README.md#tool-replit) |
+| [配置与服务管理](06-AI编程工具/README.md#configuration-management) | [CC Switch](06-AI编程工具/README.md#tool-cc-switch) · [Magpie](06-AI编程工具/README.md#tool-magpie) |
 
 [↑ 返回顶部](#top)
 
