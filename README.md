@@ -155,3 +155,13 @@
 欢迎通过 [Issues](https://github.com/yueliusu/software-and-tools/issues) 分享好用的工具与使用经验。
 
 **转载说明**：本清单为原创整理，谢绝转载，请尊重作者劳动成果。
+
+## Star 历史
+
+<a href="https://www.star-history.com/?repos=yueliusu%2Fsoftware-and-tools&amp;type=date&amp;legend=top-left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=yueliusu/software-and-tools&amp;type=date&amp;legend=top-left&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=yueliusu/software-and-tools&amp;type=date&amp;legend=top-left">
+    <img alt="software-and-tools 的 GitHub Star 历史趋势图" src="https://api.star-history.com/chart?repos=yueliusu/software-and-tools&amp;type=date&amp;legend=top-left">
+  </picture>
+</a>
